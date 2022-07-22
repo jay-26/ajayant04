@@ -1,1 +1,2 @@
-Contacts: anish_jayant@outlook.com, 858-209-7724
+anish_jayant@outlook.com
+
